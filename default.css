@@ -381,17 +381,17 @@ ul.style4 .first
 	font-size: 1.2;
 	font-weight: 200;
 	font-family: 'Raleway', sans-serif;
-	color: #666666;
+	color: white;
 	border: none;
 }
 
 #menu a:hover, #menu .current_page_item a {
 	text-decoration: none;
-	color: #FFFFFF;
+	color: blue;
 }
 
 #menu .current_page_item a {
-	color: #FFFFFF;
+	color: blue;
 }
 
 #menu .first {
